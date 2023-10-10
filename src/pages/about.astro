@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="About | Oscar Pastural" description="About Oscar Pastural">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="About me"
+				tagline="Discover my journey about building my competences"
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/at-work.jpg"
+					alt="A metaphor of Oscar's patience in work"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+
+						Obtaining my baccalaureate (<b>with high honors</b>) at the Montalembert high school in Courbevoie, I decided to follow the engineering path by continuing my studies at ESILV, engineering school located in La Défense, France. In addition, I also register for the <b>dual diploma of engineer-manager</b> offered by the business school of the same university pole, the EMLV.		
+						<br><br>
+						I had the chance to do a semester abroad in my 3rd year of engineering school, where I studied at <b>Griffith College, Dublin</b>, Ireland. I was able not only to increase my informatic skills and join the university volleyball team, but also open my mind by exploring the country and its neighbors.
+						<br><br>
+						Currently in <b>Master 1 major Data & IA at ESILV</b>, I also continue <b>a Master 1 in Finance</b> at EMLV.
+						<br><br>
+						In addition, I am now a <b>research student</b>, which allows me to work throughout the year with a team of researchers on the <b>theme of AI (NLP, ML)</b> to answer a problem and perhaps (I hope) publish a paper.
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">About Me</h2>
+				<div class="content">
+					<p>
+						I love <b>computers, travel, music and sports</b>, passions that have marked my life since my childhood.
+						<br><br>
+						From an early age, I showed a keen interest in <b>computer science</b>. I began to explore the world of computers through the eyes of a gamer. When I was younger, I spent my first (many) hours coding in Minecraft, and learning about networks. Now, this passion follows me in my studies, continuing to shape my fascination for the digital world.
+						<br><br>
+						Travel has always been a source of curiosity for me. I thirst to visit new horizons, meet new cultures and experience exciting adventures. Since my childhood, I have made many memorable trips, which have not failed to enrich me.
+						<br><br>
+						Music also has a special place in my heart. I learned to play the <b>piano, guitar and even ukulele</b>, thus cultivating a music-loving soul.
+						<br><br>
+						When it comes to sports, I have practiced a variety of sports including <b>volleyball, basketball, running, badminton, tennis, table tennis, swimming and football</b>. Each of these sports brought me a unique pleasure, allowing me to stay active and fit while developing athletic skills.
+						<br><br>
+						In short, computers, travel, music and sports are key elements that have <b>enriched my life</b> since my childhood. They reflect my deep passions and varied interests, helping to make me the person I am today, curious, creative and full of energy.
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>
+						Proficient in <b>Python, C#, Java, SQL, (HTML5, PHP, CSS)</b>.
+						<br><br>
+						English diploma - <b>C1 level (TOEFL ITP)</b>.
+						<br><br>
+						Obtained the following certifications: <b>Design Thinker, SCRUM Master 1</b>, which certify certain skills in creativity and teamwork. 
+						<br>Furthermore, ESILV trains us in <b>Soft Skills</b> throughout its curriculum, to which we dedicate a lot of time.
+						<br><br>
+						Working on obtaining the following certifications:
+						<br>- <b>CCNA</b>, to confirm my competence in networking.
+						<br>- <b>AlgoExpert Certification</b>, to demonstrate my programming skills.
+
+						<br><br>Thank you for reading.
+					</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
