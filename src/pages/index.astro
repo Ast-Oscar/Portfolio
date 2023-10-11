@@ -1,7 +1,5 @@
 ---
 import { getCollection } from 'astro:content';
-import { Image } from 'astro:assets';
-import myImportedImage from '../src/portrait.jpg';
 
 // Layout import — provides basic page elements: <head>, <nav>, <footer> etc.
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -42,8 +40,8 @@ const projects = (await getCollection('work'))
 					</div>
 				</Hero>
 
-				<Image 
-					src={myImportedImage}
+				<img
+					src="../src/portrait.jpg"
 					alt="Oscar Pastural smiling"
 					width="480"
 					height="620"
