@@ -40,12 +40,14 @@ const projects = (await getCollection('work'))
 					</div>
 				</Hero>
 
-				<img
-					src="../src/portrait.jpg"
-					alt="Oscar Pastural smiling"
-					width="480"
-					height="620"
-				/>
+				<a href={`${import.meta.env.BASE_URL}/src/portrait.jpg`}>
+				  <img
+				    alt="Oscar Pastural smiling"
+				    width="480"
+				    height="620"
+				    src={`${import.meta.env.BASE_URL}/src/portrait.jpg`}
+				  />
+				</a>
 			</header>
 
 			<Skills />
