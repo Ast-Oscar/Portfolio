@@ -75,6 +75,10 @@ jobs:
         with:
           path: "."
           key: ${{ runner.os }}-astro-dependances-${{ hashFiles('package-lock.json') }}
+          restore-keys: |  
+            npm-feature-${{ hashFiles('package-lock.json') }}
+            npm-feature-
+            npm-
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
