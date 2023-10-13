@@ -17,7 +17,7 @@ tags:
 ## Creating the system
 We were able to create the database on **MySQL Workbench** with the help of the relational schema. 
 
-<img src="/assets/Schema_ea.jpg" alt="our relational entity-attributes schema" width="100%">
+<img src="../../assets/Schema_ea.jpg" alt="our relational entity-attributes schema" width="100%">
 
 The insertion of values was however difficult given the configuration of the database at the order type level. We have filled our database by hand, then we completed it once the **C#** code operational. It was much more convenient and comfortable. 
 
