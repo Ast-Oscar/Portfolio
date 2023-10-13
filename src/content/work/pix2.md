@@ -1,7 +1,7 @@
 ---
 title: Project of Imagination and eXploration 2 (PIX 2)
 publishDate: 2022-05-20 00:00:00
-img: /assets/pix2_affiche.jpg
+img: ../../assets/pix2_affiche.jpg
 img_alt: The final product
 description: |
   In my second year, the school entitled us with the subject of creating an innovative instrument.
@@ -38,4 +38,4 @@ To conclude, I would say this project reflected to me how most systems work and 
 It was an entertaining and absorbing project.
 
 
-<img src="/public/assets/logopix.jpg" width="100%">
+<img src="../../assets/logopix.jpg" width="100%">
