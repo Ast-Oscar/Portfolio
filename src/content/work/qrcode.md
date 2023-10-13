@@ -1,7 +1,7 @@
 ---
 title: Rewriting Filters and QrCode in C#
 publishDate: 2021-05-10 00:00:00
-img: /assets/miniature_1.jpg
+img: ../../assets/miniature_1.jpg
 img_alt: An extract from the program
 description: |
   In second year, I wrote from scratch the image filters functions and QrCode class
@@ -30,5 +30,5 @@ At first, I had quite the hard time coding the header of an image, which is comp
 #### The program demonstration
 
 <video controls width="100%" muted controlsList="nodownload">
-  <source src="/assets/qrcode_demo.mp4" type="video/mp4">
+  <source src="../../assets/qrcode_demo.mp4" type="video/mp4">
 </video>
