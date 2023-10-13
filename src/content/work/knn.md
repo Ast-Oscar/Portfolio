@@ -1,7 +1,7 @@
 ---
 title: K-nn predictions
 publishDate: 2023-01-25 00:00:00
-img: /assets/knn_miniature.jpg
+img: ../../assets/knn_miniature.jpg
 img_alt: knn algorithm
 description: |
   In my third year, I wrote a Python program that could predict the classes of variables of a dataset by training it on another dataset with the k-nn algorithm
