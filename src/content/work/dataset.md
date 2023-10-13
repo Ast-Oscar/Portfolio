@@ -1,7 +1,7 @@
 ---
 title: Dataset Analysis in Python
 publishDate: 2023-05-20 00:00:00
-img: /assets/dataset_miniature.jpg
+img: ../../assets/dataset_miniature.jpg
 img_alt: Extract of our analysis
 description: |
   In my third year, I learned to analyze a dataset with all the necessary steps: cleaning, choosing the variables, analyzing, interpretation.
