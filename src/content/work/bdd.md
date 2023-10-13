@@ -1,7 +1,7 @@
 ---
 title: Order Manager in SQL and C# 
 publishDate: 2023-05-25 00:00:00
-img: /assets/bdd_miniature.jpg
+img: ../../assets/bdd_miniature.jpg
 img_alt: Our E/A schema
 description: |
   In my third year, we created a database in SQL that could be updated through a Windows Forms linked to a C# program
@@ -27,5 +27,5 @@ information system of Mr. Bellefleur (the given name of the salesman manager) an
 ## Demonstration
 
 <video controls width="100%" muted controlsList="nodownload">
-  <source src="/assets/bellefleur_demo.mp4" type="video/mp4">
+  <source src="../../assets/bellefleur_demo.mp4" type="video/mp4">
 </video>
