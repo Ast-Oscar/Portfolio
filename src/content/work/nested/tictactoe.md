@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Ultimate TicTacToe AI
 publishDate: 2023-05-15 00:00:00
-img: ../../assets/miniature_tic.jpg
+img: ../../../assets/miniature_tic.jpg
 img_alt: Screen of the working AI
 description: |
   In my third year, I programmed an AI in Python that could not be beaten in the unknown game of Ultimate TicTacToe 
@@ -15,7 +15,7 @@ tags:
 The game of Ultimate TicTacToe is an unfamous game that derives from Tic Tac Toe. It is a Tic Tac Toe gameboard that has inside each of its case a game of Tic Tac Toe.
 
 
-<img src="../../assets/demo.jpg" alt="how the game works" width="100%">
+<img src="../../../assets/demo.jpg" alt="how the game works" width="100%">
 As shown in the image, once you play in a case of a small board, the next player has to play in the board corresponding to the case you played in. if you play in the case 3, the next play has to play in the Tic Tac Toe numbered 3. 
 
 ## Working of the algorithm
@@ -28,5 +28,5 @@ The algorithm works based of these concepts:
 ## Demonstration
 
 <video controls width="100%" muted controlsList="nodownload">
-  <source src="../../assets/tictactoe_demo.mp4" type="video/mp4">
+  <source src="../../../assets/tictactoe_demo.mp4" type="video/mp4">
 </video>
