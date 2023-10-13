@@ -79,6 +79,8 @@ jobs:
             npm-feature-${{ hashFiles('package-lock.json') }}
             npm-feature-
             npm-
+            npm-feature-${{ hashFiles('package-lock.json') }}-node-modules # Ajoutez cette ligne pour inclure le répertoire ./node_modules dans la mise en cache
+
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
