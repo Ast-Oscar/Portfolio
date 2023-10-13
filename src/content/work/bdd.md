@@ -14,7 +14,8 @@ tags:
   - XML
 ---
 
-<h1>Creating the system</h1> 
+<h4>Creating the system</h4> 
+
 <p style="width: 100%">
   We were able to create the database on **MySQL Workbench** with the help of the relational schema. 
 </p>
@@ -27,8 +28,7 @@ tags:
   We decided to use a **WebApplication Framework** for the graphical interface of the information system of Mr. Bellefleur (the given name of the salesman manager) and for the interface of customers. We therefore use **ASP.NET** **WebForms** to give the overall structure of each page and to integrate the C# code behind.
 </p>
 
-## Demonstration
-
+<h4>Demonstration</h4>
 
 <video controls width="100%" muted controlsList="nodownload">
   <source src="../../assets/bellefleur_demo.mp4" type="video/mp4">
