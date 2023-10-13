@@ -16,7 +16,7 @@ tags:
   With a few classes like Gameboard(), Tokens(), we are able to create with a set of rules the game of Scrabble.
 </p>
 
-#### The program demonstration
+<h4>The program demonstration</h4>
 
 <video controls width="100%" muted controlsList="nodownload">
   <source src="../../assets/scrabble_demo.mp4" type="video/mp4">
