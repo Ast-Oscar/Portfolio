@@ -1,7 +1,7 @@
 ---
 title: Statistic Project
 publishDate: 2022-04-022 00:00:00
-img: /assets/miniature_3.jpg
+img: ../../assets/miniature_3.jpg
 img_alt: Cover sheet of our work
 description: |
   As part of our 2nd year statistics project at ESILV, we must propose a study on the subject of our choice using the statistical techniques used in progress. The goal is to deepen our knowledge while expanding them around this group work.
@@ -17,7 +17,7 @@ To carry out our study, we approach our problem in three main parts: the univari
 By deleting the NaN and wrong data, we came across our final dataset. With the use of R, RStudio, and Matlab, we were able to visualize and critic our dataset.
 
 **Example**: Press notes based on the number of video games sold
-<img src="/assets/example_1.jpg" alt="example from the statistic project" width="80%">
+<img src="../../assets/example_1.jpg" alt="example from the statistic project" width="80%">
 
 Here we can analyze that the mean of the score of the press is 7.5, which means that a largely sold video games will have more chances to be considered “good”.
 
