@@ -23,31 +23,31 @@ tags:
 
 <h4>Steps</h4>
 
-<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Finding the idea with the team members</h6>
+<h5><img src="../../assets/tourmate_logo.jpg" width="3%"> Finding the idea with the team members</h5>
 <p style="width: 100%">
   To be honest, the difficult part in an engineering project is always the green thought: in only four months, creating a viable product that could get labelled "made with green thought.".
   Since in our team we all did a semester abroad, we chose to create an application that could combine this directive with our recent international experience. 
 </p>
 
-<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Create an identity (logo, name, etc.)</h6>
+<h5><img src="../../assets/tourmate_logo.jpg" width="3%"> Create an identity (logo, name, etc.)</h5>
 <p style="width: 100%">
   Our idea was oriented around guide counseling and travel guide creator. It was working with an algorithm that could generate a travel guide with the preferences of the user and the recommendations of the application (made with the notations and comments of other users).
   We decided to call it TourMate.
 </p>
 
-<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Contacting our supervisor</h6>
+<h5><img src="../../assets/tourmate_logo.jpg" width="3%"> Contacting our supervisor</h5>
 
-<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Create our Proof Of Concept (POC)</h6>
+<h5><img src="../../assets/tourmate_logo.jpg" width="3%"> Create our Proof Of Concept (POC)</h5>
 <p style="width: 100%">
   To create our POC, we decided to use a No Code App to show result rapidly.
 </p>
 
-<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Concept our Minimum Valuable Product (MVP)</h6>
+<h5><img src="../../assets/tourmate_logo.jpg" width="3%"> Concept our Minimum Valuable Product (MVP)</h5>
 <p style="width: 100%">
   To create our MVP, we decided to reduce the international scope we had so that we could create a small application working on a small part of the world (We chose certain parts of Europe). We then coded it, created the database required.
 </p>
 
-<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Prepare ourselves for presentations for the jury</h6>
+<h5><img src="../../assets/tourmate_logo.jpg" width="3%"> Prepare ourselves for presentations for the jury</h5>
 
 <h4>Problems encountered and how we faced them</h4>
 <p style="width: 100%">
