@@ -1,7 +1,7 @@
 ---
 title: Programming a game - Scrabble
 publishDate: 2020-12-10 00:00:00
-img: ../assets/scrabble_miniature.jpg
+img: ../../assets/scrabble_miniature.jpg
 img_alt: A screenshot of the console
 description: |
   In the start of second year, one of our first projects was to program a game of Scrabble.
