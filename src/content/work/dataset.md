@@ -11,22 +11,25 @@ tags:
   - Jupyter Notebook
   - Various libraries like matplotlib, pandas, plotly, folium, json
 ---
-## The process
-For this project, we received a dataset needing to be cleaned, it had a lot of erronated values. First, we analyzed the dataset given, and proceed to read its documentation.
 
-Then, we cleaned the data with the process learned throughout the year.
+<h4>The process</h4>
+<p style="width: 100%">
+  For this project, we received a dataset needing to be cleaned, it had a lot of erronated values. First, we analyzed the dataset given, and proceed to read its documentation.
+  
+  Then, we cleaned the data with the process learned throughout the year.
+  
+  With that, we figured out which variables were interesting to study and we could start.
+  
+  We mixed a lot of variables because one of the aim of this project was to better our analysis of data.
+  
+  To represent them, we mainly used plots, barplots, maps and heatmaps.
+  
+  We kept our program on a **jupyter notebook**.
+  
+  To present our result, we used **django** to wrap all our representations and analysis.
+</p>
 
-With that, we figured out which variables were interesting to study and we could start.
-
-We mixed a lot of variables because one of the aim of this project was to better our analysis of data.
-
-To represent them, we mainly used plots, barplots, maps and heatmaps.
-
-We kept our program on a **jupyter notebook**.
-To present our result, we used **django** to wrap all our representations and analysis.
-
-
-## Django Demonstration
+<h4>Django Demonstration</h4>
 
 <video controls width="100%" muted controlsList="nodownload">
   <source src=" ../../assets/django.mp4" type="video/mp4">
