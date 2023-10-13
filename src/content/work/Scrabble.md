@@ -8,10 +8,13 @@ description: |
 tags:
   - C#
 ---
-
-Scrabble is a word game in which players use lettered tiles to create words on a game board with a grid of squares. Each letter has a point value, and players aim to create words that maximize their score. 
-The game involves strategy, vocabulary skills, and tile placement to outscore opponents. It is typically played by two to four players, and the player with the highest score at the end of the game wins.
-With a few classes like Gameboard(), Tokens(), we are able to create with a set of rules the game of Scrabble.
+<p style="width: 100%">
+  Scrabble is a word game in which players use lettered tiles to create words on a game board with a grid of squares. Each letter has a point value, and players aim to create words that maximize their score. 
+  
+  The game involves strategy, vocabulary skills, and tile placement to outscore opponents. It is typically played by two to four players, and the player with the highest score at the end of the game wins.
+  
+  With a few classes like Gameboard(), Tokens(), we are able to create with a set of rules the game of Scrabble.
+</p>
 
 #### The program demonstration
 
