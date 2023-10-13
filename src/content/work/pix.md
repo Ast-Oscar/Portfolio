@@ -1,7 +1,7 @@
 ---
 title: Project of Imagination and eXploration (PIX)
 publishDate: 2021-05-20 00:00:00
-img: /assets/eo_miniature.jpg
+img: ../../assets/eo_miniature.jpg
 img_alt: parts of our wind turbine
 description: |
   In my first year, the school entitled us with the subject of creating a system that can generate electricity through mecanical reactions.
@@ -20,11 +20,11 @@ The parts not modelized are made of recyclable tissue, allowing our project to b
 ## Final Result
 
 <video controls width="50%" muted controlsList="nodownload">
-  <source src="/assets/eo_finale.mp4" type="video/mp4">
+  <source src="../../assets/eo_finale.mp4" type="video/mp4">
 </video>
 
 ## Wind Turbine demonstration
 
 <video controls width="50%" muted controlsList="nodownload">
-  <source src="/assets/eo_demo.mp4" type="video/mp4">
+  <source src="../../assets/eo_demo.mp4" type="video/mp4">
 </video>
