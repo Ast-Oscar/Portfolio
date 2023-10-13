@@ -43,7 +43,7 @@ jobs:
 
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
-        working-directory: .
+        working-directory: "."
 
       - name: Install, build, and upload your site
         uses: withastro/action@v1
