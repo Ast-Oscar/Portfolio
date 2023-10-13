@@ -40,15 +40,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - name: Cache
-        uses: actions/cache@v3.3.2
-        with:
-          path: "."
-          key: ${{ runner.os }}-astro-dependances-${{ hashFiles('package-lock.json') }}
-          restore-keys: |  
-            npm-feature-${{ hashFiles('package-lock.json') }}
-            npm-feature-
-            npm-
       - name: Install, build, and upload your site
         uses: withastro/action@v1
         with:
