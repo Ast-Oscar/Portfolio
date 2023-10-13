@@ -29,5 +29,5 @@ To present our result, we used **django** to wrap all our representations and an
 ## Django Demonstration
 
 <video controls width="100%" muted controlsList="nodownload">
-  <source src="/assets/django.mp4" type="video/mp4">
+  <source src=" ../../assets/django.mp4" type="video/mp4">
 </video>
