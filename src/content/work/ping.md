@@ -13,38 +13,48 @@ tags:
   - POC
   - MVP
 ---
-## Concept
-This year, the concept was to put a team of 5-6 students under a project as a Start-Up that has to generate funds to create its idea.
-We had to convince a jury that our project was a brilliant idea that they could invest in, and bring proofs for that.
 
-## Steps
-<img src="../../assets/tourmate_logo.jpg" width="3%"> Finding the idea with the team members
+<h4>Concept</h4>
 
-To be honest, the difficult part in an engineering project is always the green thought: in only four months, creating a viable product that could get labelled "made with green thought.".
-Since in our team we all did a semester abroad, we chose to create an application that could combine this directive with our recent international experience. 
+<p style="width: 100%">
+  This year, the concept was to put a team of 5-6 students under a project as a Start-Up that has to generate funds to create its idea.
+  We had to convince a jury that our project was a brilliant idea that they could invest in, and bring proofs for that.
+</p>
 
-<img src="../../assets/tourmate_logo.jpg" width="3%"> Create an identity (logo, name, etc.)
+<h4>Steps</h4>
 
-Our idea was oriented around guide counseling and travel guide creator. It was working with an algorithm that could generate a travel guide with the preferences of the user and the recommendations of the application (made with the notations and comments of other users).
-We decided to call it TourMate.
+<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Finding the idea with the team members</h6>
+<p style="width: 100%">
+  To be honest, the difficult part in an engineering project is always the green thought: in only four months, creating a viable product that could get labelled "made with green thought.".
+  Since in our team we all did a semester abroad, we chose to create an application that could combine this directive with our recent international experience. 
+</p>
 
-<img src="../../assets/tourmate_logo.jpg" width="3%"> Contacting our supervisor
+<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Create an identity (logo, name, etc.)</h6>
+<p style="width: 100%">
+  Our idea was oriented around guide counseling and travel guide creator. It was working with an algorithm that could generate a travel guide with the preferences of the user and the recommendations of the application (made with the notations and comments of other users).
+  We decided to call it TourMate.
+</p>
 
-<img src="../../assets/tourmate_logo.jpg" width="3%"> Create our Proof Of Concept (POC)
+<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Contacting our supervisor</h6>
 
-To create our POC, we decided to use a No Code App to show result rapidly.
+<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Create our Proof Of Concept (POC)</h6>
+<p style="width: 100%">
+  To create our POC, we decided to use a No Code App to show result rapidly.
+</p>
 
-<img src="../../assets/tourmate_logo.jpg" width="3%"> Concept our Minimum Valuable Product (MVP)
+<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Concept our Minimum Valuable Product (MVP)</h6>
+<p style="width: 100%">
+  To create our MVP, we decided to reduce the international scope we had so that we could create a small application working on a small part of the world (We chose certain parts of Europe). We then coded it, created the database required.
+</p>
 
-To create our MVP, we decided to reduce the international scope we had so that we could create a small application working on a small part of the world (We chose certain parts of Europe). We then coded it, created the database required.
+<h6><img src="../../assets/tourmate_logo.jpg" width="3%"> Prepare ourselves for presentations for the jury</h6>
 
-<img src="../../assets/tourmate_logo.jpg" width="3%"> Prepare ourselves for presentations for the jury
+<h4>Problems encountered and how we faced them</h4>
+<p style="width: 100%">
+  As my team was composed of people that did an international exchange during the 1st semester of the year, we had only 4 months where other teams had the year. We had to push faster.
+</p>
 
-## Problems encountered and how we faced them
-As my team was composed of people that did an international exchange during the 1st semester of the year, we had only 4 months where other teams had the year. We had to push faster.
-
-
-## Result
+<h4>Result</h4>
 
 <video controls width="100%" muted controlsList="nodownload">
   <source src="../../assets/demo_ping.mp4" type="video/mp4">
