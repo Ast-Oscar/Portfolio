@@ -26,11 +26,11 @@ tags:
 
 <h4>Final Result</h4>
 
-<video controls width="50%" muted controlsList="nodownload">
+<video controls width="100%" muted controlsList="nodownload">
   <source src="../../assets/eo_finale.mp4" type="video/mp4">
 </video>
 
-## Wind Turbine demonstration
+<h4>Wind Turbine demonstration</h4>
 
 <video controls width="50%" muted controlsList="nodownload">
   <source src="../../assets/eo_demo.mp4" type="video/mp4">
