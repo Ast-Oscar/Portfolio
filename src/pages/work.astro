@@ -18,6 +18,15 @@ const projects = (await getCollection('work')).sort(
 	title="My Academic Projects | Oscar Pastural"
 	description="Learn about my projects"
 >
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-2JT38SCSM2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'G-2JT38SCSM2');
+	</script>
 	<div class="stack gap-20">
 		<main class="wrapper stack gap-8">
 			<Hero
